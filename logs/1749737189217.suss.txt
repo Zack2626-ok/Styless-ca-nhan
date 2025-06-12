@@ -1,0 +1,27 @@
+{
+  "id": "gen-1749737188-ScZIPW2Gd2HS1okRgPkk",
+  "provider": "Targon",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "object": "chat.completion",
+  "created": 1749737189,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```json\n{\n  \"height\": \"\",\n  \"weight\": \"\",\n  \"gender\": \"\",\n  \"season\": \"\",\n  \"style\": [],\n  \"ask\": \"Bạn có thể cung cấp chiều cao (cm) và cân nặng (kg) của bạn không?\"\n}\n```",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 286,
+    "completion_tokens": 64,
+    "total_tokens": 350,
+    "prompt_tokens_details": null
+  }
+}

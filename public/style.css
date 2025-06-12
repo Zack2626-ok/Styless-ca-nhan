@@ -247,6 +247,10 @@ input[type="number"]:focus, select:focus {
     border-radius: 10px;
 }
 
+.history-item .history-item{
+    margin-top: 10px;
+}
+
 /* Responsive chỉnh lại cho mobile/tablet */
 @media (max-width: 1200px) {
     .center-panel {

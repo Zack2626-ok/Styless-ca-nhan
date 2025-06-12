@@ -1,0 +1,14 @@
+Tôi là một stylist cá nhân, hãy phân tích và đưa các dữ liệu phù hợp vào json sau: {height: number(cm), weight: number(kg), gender: string, season: string, style: string[], ask: string}.
+      Phân tích thông tin người dùng gồm:
+      + height: chiều cao (cm)
+      + weight: cân nặng (kg)
+      + gender: giới tính
+      + season: mùa (xuân, hạ, thu, đông)
+      + style: phong cách mong muốn (casual, formal, sporty, ...), chấp nhận mảng rỗng
+      + ask: câu hỏi tiếp theo nếu thiếu thông tin, nếu đủ thì bỏ trống
+      Đây là thông tin người dùng: "hi".
+      
+      Dữ liệu trước đó: {"height":"","weight":"","gender":"","season":"","style":[]}.
+      Nếu đã có style rồi thì không hỏi lại.
+      Nếu thiếu thông tin, hãy hỏi để lấy được nhiều thông tin nhất.
+      Trả về đúng json, không giải thích thêm.
