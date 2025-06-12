@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name_b": "Casual", "description": "Phong cách thường ngày, thoải mái, dễ phối đồ.", "thumb_url": "" },
+  { "id": 2, "name_b": "Formal", "description": "Phong cách lịch sự, công sở, dự tiệc.", "thumb_url": "" },
+  { "id": 3, "name_b": "Sporty", "description": "Phong cách thể thao, năng động.", "thumb_url": "" },
+  { "id": 4, "name_b": "Streetwear", "description": "Phong cách đường phố, cá tính, trẻ trung.", "thumb_url": "" },
+  { "id": 5, "name_b": "Vintage", "description": "Phong cách cổ điển, hoài niệm.", "thumb_url": "" },
+  { "id": 6, "name_b": "Minimalism", "description": "Phong cách tối giản, tinh tế.", "thumb_url": "" },
+  { "id": 7, "name_b": "Bohemian", "description": "Phong cách tự do, phóng khoáng, nhiều họa tiết.", "thumb_url": "" },
+  { "id": 8, "name_b": "Preppy", "description": "Phong cách học đường, trẻ trung, lịch sự.", "thumb_url": "" },
+  { "id": 9, "name_b": "Chic", "description": "Phong cách thanh lịch, hiện đại.", "thumb_url": "" },
+  { "id": 10, "name_b": "Sexy", "description": "Phong cách quyến rũ, nổi bật.", "thumb_url": "" },
+  { "id": 11, "name_b": "Unisex", "description": "Phong cách phi giới tính, phù hợp cả nam và nữ.", "thumb_url": "" },
+  { "id": 12, "name_b": "Smart Casual", "description": "Phong cách kết hợp giữa lịch sự và thoải mái.", "thumb_url": "" },
+  { "id": 13, "name_b": "Business", "description": "Phong cách công sở chuyên nghiệp.", "thumb_url": "" },
+  { "id": 14, "name_b": "Rock", "description": "Phong cách cá tính, mạnh mẽ, nổi loạn.", "thumb_url": "" },
+  { "id": 15, "name_b": "Hip Hop", "description": "Phong cách hip hop, rộng rãi, năng động.", "thumb_url": "" },
+  { "id": 16, "name_b": "Korean Style", "description": "Phong cách Hàn Quốc, trẻ trung, hiện đại.", "thumb_url": "" },
+  { "id": 17, "name_b": "Elegant", "description": "Phong cách sang trọng, quý phái.", "thumb_url": "" },
+  { "id": 18, "name_b": "Retro", "description": "Phong cách hoài cổ, lấy cảm hứng từ thập niên trước.", "thumb_url": "" },
+  { "id": 19, "name_b": "Athleisure", "description": "Phong cách thể thao kết hợp thời trang.", "thumb_url": "" },
+  { "id": 20, "name_b": "Grunge", "description": "Phong cách bụi bặm, phá cách.", "thumb_url": "" }
+]

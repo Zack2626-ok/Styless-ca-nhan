@@ -1,0 +1,4459 @@
+[
+  {
+    "time": "2025-06-10T16:38:03.958Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [
+        "Quần jeans",
+        "Quần kaki"
+      ],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 6
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun hoặc áo polo kết hợp với quần short hoặc quần thể thao, cùng giày sneaker hoặc giày lười. Phụ kiện gồm đồng hồ và mũ lưỡi trai để hoàn thiện phong cách casual mùa hạ."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 2",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 21
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 17
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi hoặc áo phông dài tay kết hợp với quần baggy hoặc quần thun, cùng giày slip-on hoặc dép. Phụ kiện gồm túi xách và ba lô để tạo điểm nhấn cho set đồ casual mùa hạ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-10T17:05:17.457Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần legging"
+      ],
+      "giay": [
+        "Giày derby"
+      ],
+      "phu_kien": [
+        "Mũ fedora"
+      ],
+      "style": [
+        "Sexy"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "sexy"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ sexy mùa hạ nữ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo croptop kết hợp với quần short, giày sneaker, phụ kiện mũ fedora và kính râm, phù hợp với phong cách sexy mùa hạ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:02:46.712Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 170,
+      "weight": 50,
+      "gender": "nam",
+      "season": "xuân",
+      "style": [
+        "casual",
+        "romantic"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa xuân với áo thun và quần jeans",
+        "ao": [
+          {
+            "id": 2
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ đơn giản, thoải mái với áo thun trơn, quần jeans slim fit và giày sneaker, phù hợp cho các hoạt động hàng ngày trong mùa xuân. Mũ lưỡi trai giúp tăng thêm phần cá tính."
+      },
+      {
+        "name": "Set đồ Romantic với áo sơ mi caro và quần tây lửng",
+        "ao": [
+          {
+            "id": 23
+          }
+        ],
+        "quan": [
+          {
+            "id": 29
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 3
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 10
+          }
+        ],
+        "description": "Set đồ lãng mạn với áo sơ mi caro nhẹ nhàng, quần tây lửng thanh lịch và giày lười thoải mái. Vòng tay đơn giản giúp hoàn thiện phong cách nhẹ nhàng, phù hợp cho những buổi hẹn hò mùa xuân."
+      },
+      {
+        "name": "Set đồ Casual xuân với áo cardigan và quần kaki",
+        "ao": [
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 5
+          }
+        ],
+        "giay": [
+          {
+            "id": 7
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 6
+          }
+        ],
+        "description": "Set đồ ấm áp nhưng vẫn thanh lịch với áo cardigan dễ phối cùng quần kaki và giày oxford. Đồng hồ đơn giản giúp tăng phần tinh tế, phù hợp cho những ngày xuân se lạnh."
+      },
+      {
+        "name": "Set đồ Romantic với áo polo và quần linen",
+        "ao": [
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 18
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 13
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 10
+          }
+        ],
+        "description": "Set đồ lịch sự nhưng vẫn lãng mạn với áo polo cổ điển, quần linen thoáng mát và giày ballet flats. Dây chuyền nhỏ giúp điểm nhấn tinh tế, phù hợp cho những buổi dạo chơi xuân nhẹ nhàng."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:08:24.354Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần nỉ"
+      ],
+      "giay": [
+        "Giày cao gót"
+      ],
+      "phu_kien": [
+        "Kính râm",
+        "Cài áo",
+        "Bông tai",
+        "Nhẫn"
+      ],
+      "style": [
+        "Sexy"
+      ]
+    },
+    "paramHistories": {
+      "height": 140,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "xuân",
+      "style": [
+        "sexy"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Croptop và Legging",
+        "ao": [
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 6
+          }
+        ],
+        "giay": [
+          {
+            "id": 5
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 20
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          }
+        ],
+        "description": "Set đồ kết hợp áo croptop ôm sát cơ thể cùng quần legging tôn dáng, đi kèm giày cao gót và túi clutch nhỏ, mang lại vẻ sexy quyến rũ."
+      },
+      {
+        "name": "Set Áo Thun Tay Lỡ và Short Jeans",
+        "ao": [
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 33
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          }
+        ],
+        "description": "Áo thun tay lỡ thoải mái phối cùng short jeans cá tính, cùng sneaker trẻ trung và khăn lụa mềm mại, tạo nên phong cách sexy nhưng vẫn năng động."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:11:34.459Z",
+    "selectedItems": {
+      "ao": [
+        "Áo khoác jean"
+      ],
+      "quan": [
+        "Quần baggy"
+      ],
+      "giay": [
+        "Giày boots"
+      ],
+      "phu_kien": [
+        "Cài áo",
+        "Mũ fedora",
+        "Bông tai"
+      ],
+      "style": [
+        "Casual"
+      ]
+    },
+    "paramHistories": {
+      "height": 140,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "xuân",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa xuân 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 7
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 6
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo thun và áo hoodie mix cùng quần jeans hoặc quần baggy, đi kèm giày sneaker hoặc ballet flats, phụ kiện đồng hồ và mũ lưỡi trai. Phong cách casual thoải mái, phù hợp cho mùa xuân."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo polo và áo cardigan phối cùng quần short hoặc quần thể thao, đi giày slip-on hoặc dép. Phụ kiện túi xách và túi đeo hông, phong cách casual năng động, thoáng mát."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 3",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 6
+          },
+          {
+            "id": 8
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 22
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo sơ mi và áo croptop kết hợp với quần legging hoặc quần culottes, đi giày lười hoặc loafer. Phụ kiện khăn choàng cổ và băng đô, phong cách casual dịu dàng, thanh lịch."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:17:50.934Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "thu",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set áo len và quần legging",
+        "ao": [
+          {
+            "id": 5
+          }
+        ],
+        "quan": [
+          {
+            "id": 6
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 7
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo len ấm áp kết hợp với quần legging ôm sát tạo sự thoải mái, đi giày sneaker và phụ kiện khăn choàng cổ cùng mũ len phù hợp cho mùa thu."
+      },
+      {
+        "name": "Set áo hoodie và quần jogger",
+        "ao": [
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo hoodie rộng rãi và quần jogger thoải mái, kết hợp với dép đi trong nhà và balô, phù hợp phong cách casual mùa thu."
+      },
+      {
+        "name": "Set áo cardigan và quần ống rộng",
+        "ao": [
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 22
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 13
+          },
+          {
+            "id": 1
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo cardigan ấm áp với quần ống rộng tạo phong cách casual thoải mái, giày ballet flats và phụ kiện dây chuyền, kính râm phù hợp tiết trời thu."
+      },
+      {
+        "name": "Set áo sơ mi caro và quần jeans",
+        "ao": [
+          {
+            "id": 23
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 14
+          },
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi caro kết hợp quần jeans cá tính, cùng giày lười và phụ kiện thắt lưng, đồng hồ tạo nên set đồ casual phù hợp mùa thu."
+      },
+      {
+        "name": "Set áo croptop và quần culottes",
+        "ao": [
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 8
+          }
+        ],
+        "giay": [
+          {
+            "id": 17
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 21
+          },
+          {
+            "id": 25
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo croptop cùng quần culottes thoải mái, giày platform và phụ kiện kẹp tóc, dây nịt tạo điểm nhấn cho set đồ casual mùa thu."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:21:12.611Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": [
+        "Sexy"
+      ]
+    },
+    "paramHistories": {
+      "height": 140,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "sexy"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ sexy mùa hạ",
+        "ao": [
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 5
+          },
+          {
+            "id": 20
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 10
+          },
+          {
+            "id": 13
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          }
+        ],
+        "description": "Set đồ kết hợp áo croptop và tanktop với quần short jeans hoặc quần short, cùng giày cao gót hoặc giày pump, phụ kiện bông tai và dây chuyền, phù hợp với phong cách sexy và mùa hạ."
+      },
+      {
+        "name": "Set đồ phong cách sexy casual",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 27
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          },
+          {
+            "id": 23
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 4
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          },
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi hoa kết hợp với quần skinny hoặc quần ống bó, giày sneaker hoặc ballet flats, thêm phụ kiện vòng cổ và túi xách, phong cách vừa sexy vừa casual."
+      },
+      {
+        "name": "Set đồ đường phố sexy",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 17
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 11
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          },
+          {
+            "id": 4
+          }
+        ],
+        "description": "Áo hoodie hoặc áo peplum kết hợp với quần baggy hoặc quần cargo, giày boots hoặc platform, phụ kiện mũ lưỡi trai và túi đeo hông, phong cách streetwear và sexy."
+      },
+      {
+        "name": "Set đồ nữ tính quyến rũ",
+        "ao": [
+          {
+            "id": 5
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 19
+          },
+          {
+            "id": 8
+          }
+        ],
+        "giay": [
+          {
+            "id": 6
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 20
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 10
+          },
+          {
+            "id": 17
+          }
+        ],
+        "description": "Áo len hoặc áo cardigan kết hợp với quần giả váy hoặc quần culottes, giày búp bê hoặc Mary Jane, phụ kiện túi clutch và bờm tóc, phong cách sexy và nữ tính."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:29:41.609Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "thu",
+      "style": [
+        "sporty"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ thể thao năng động",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 10
+          },
+          {
+            "id": 32
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 3
+          }
+        ],
+        "description": "Set đồ kết hợp áo hoodie hoặc áo tanktop với quần thể thao và giày chạy bộ, phù hợp cho các hoạt động ngoài trời vào mùa thu. Phụ kiện gồm mũ lưỡi trai và ba lô để hoàn thiện phong cách sporty."
+      },
+      {
+        "name": "Set đồ casual thoải mái",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 37
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 19
+          },
+          {
+            "id": 40
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 3
+          }
+        ],
+        "description": "Set đồ gồm áo thun hoặc áo thun tay lỡ cùng quần jogger hoặc quần short thể thao nữ, kết hợp giày sneaker. Thêm túi đeo chéo và găng tay len để giữ ấm và tiện lợi khi di chuyển."
+      },
+      {
+        "name": "Set đồ thể thao phong cách",
+        "ao": [
+          {
+            "id": 14
+          },
+          {
+            "id": 39
+          }
+        ],
+        "quan": [
+          {
+            "id": 6
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 10
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 34
+          },
+          {
+            "id": 36
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 3
+          }
+        ],
+        "description": "Áo gió nữ và áo khoác gió nữ kết hợp với quần legging hoặc quần skinny, cùng giày boots. Phụ kiện gồm khăn len và mũ snapback để giữ ấm và tạo điểm nhấn phong cách."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T00:32:30.623Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "thu",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Casual Mùa Thu 1",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo hoodie và áo cardigan mix cùng quần jeans, đi giày sneaker, phối hợp thêm đồng hồ và túi xách. Phù hợp cho những ngày thu mát mẻ với phong cách casual thoải mái."
+      },
+      {
+        "name": "Set Casual Mùa Thu 2",
+        "ao": [
+          {
+            "id": 5
+          },
+          {
+            "id": 12
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 15
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo len và áo bomber phối cùng quần skinny, đi giày boots, thêm khăn choàng cổ và găng tay. Hoàn hảo cho tiết trời thu se lạnh, vừa ấm áp vừa thời trang."
+      },
+      {
+        "name": "Set Casual Mùa Thu 3",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 18
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ kết hợp áo sơ mi và áo khoác da với quần jogger, giày slip-on, thêm mũ lưỡi trai và túi tote. Phong cách casual trẻ trung, thoải mái cho những ngày thu dịu mát."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T01:55:28.739Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nam",
+      "season": "đông",
+      "style": [
+        "formal"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ formal mùa đông 1",
+        "ao": [
+          {
+            "id": 7
+          }
+        ],
+        "quan": [
+          {
+            "id": 2
+          }
+        ],
+        "giay": [
+          {
+            "id": 2
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 14
+          },
+          {
+            "id": 23
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo vest kết hợp với quần tây tạo nên phong cách formal lịch lãm. Giày tây và đồng hồ, thắt lưng, cà vạt giúp hoàn thiện set đồ."
+      },
+      {
+        "name": "Set đồ formal mùa đông 2",
+        "ao": [
+          {
+            "id": 6
+          }
+        ],
+        "quan": [
+          {
+            "id": 5
+          }
+        ],
+        "giay": [
+          {
+            "id": 7
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 14
+          },
+          {
+            "id": 33
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo blazer và quần kaki mang đến vẻ ngoài thanh lịch. Giày oxford cùng đồng hồ, thắt lưng, khăn lụa giúp tăng thêm sự sang trọng."
+      },
+      {
+        "name": "Set đồ formal mùa đông 3",
+        "ao": [
+          {
+            "id": 31
+          }
+        ],
+        "quan": [
+          {
+            "id": 21
+          }
+        ],
+        "giay": [
+          {
+            "id": 8
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 14
+          },
+          {
+            "id": 29
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo khoác blazer nữ kết hợp với quần ống đứng tạo nên phong cách formal hiện đại. Giày derby và đồng hồ, thắt lưng, dây đồng hồ giúp hoàn thiện set đồ."
+      },
+      {
+        "name": "Set đồ formal mùa đông 4",
+        "ao": [
+          {
+            "id": 15
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 14
+          },
+          {
+            "id": 39
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo khoác da và quần jeans đem lại phong cách formal phóng khoáng. Giày boots cùng đồng hồ, thắt lưng, găng tay da giúp hoàn thiện set đồ."
+      },
+      {
+        "name": "Set đồ formal mùa đông 5",
+        "ao": [
+          {
+            "id": 36
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 38
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 14
+          },
+          {
+            "id": 24
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 2
+          }
+        ],
+        "description": "Áo khoác măng tô và quần skinny tạo nên phong cách formal tinh tế. Giày monk strap cùng đồng hồ, thắt lưng, nơ cổ giúp hoàn thiện set đồ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T04:47:05.562Z",
+    "selectedItems": {
+      "ao": [
+        "Áo khoác jean",
+        "Áo sơ mi",
+        "Áo hoodie"
+      ],
+      "quan": [
+        "Quần jeans",
+        "Quần short",
+        "Quần yếm",
+        "Quần short thể thao nữ",
+        "Quần giả váy"
+      ],
+      "giay": [
+        "Giày đạp gót",
+        "Giày cao gót"
+      ],
+      "phu_kien": [
+        "Mũ len",
+        "Vòng tay",
+        "Cài áo",
+        "Thắt lưng"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nữ",
+      "season": "thu",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual thu ấm áp",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ kết hợp áo hoodie ấm áp và áo cardigan dễ thương cùng quần jeans skinny và giày sneaker hoặc ballet flats, phù hợp cho tiết trời thu. Khăn choàng cổ và túi xách nhỏ giúp hoàn thiện phong cách casual."
+      },
+      {
+        "name": "Set đồ Casual dạo phố mùa thu",
+        "ao": [
+          {
+            "id": 6
+          },
+          {
+            "id": 24
+          }
+        ],
+        "quan": [
+          {
+            "id": 20
+          },
+          {
+            "id": 22
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 19
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo blazer trẻ trung kết hợp với áo sơ mi trắng cùng quần suông hoặc quần ống rộng, đi cùng giày lười hoặc loafers. Phụ kiện bao gồm mũ lưỡi trai và túi đeo chéo, tạo nên phong cách casual năng động."
+      },
+      {
+        "name": "Set đồ Casual thoải mái mùa thu",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 5
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 25
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 34
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi và áo len mix cùng quần jogger hoặc quần thể thao, kết hợp giày sneaker hoặc running shoes. Ba lô và khăn len là phụ kiện hoàn hảo cho set đồ casual thoải mái này."
+      },
+      {
+        "name": "Set đồ Casual nữ tính mùa thu",
+        "ao": [
+          {
+            "id": 26
+          },
+          {
+            "id": 17
+          }
+        ],
+        "quan": [
+          {
+            "id": 8
+          },
+          {
+            "id": 19
+          }
+        ],
+        "giay": [
+          {
+            "id": 5
+          },
+          {
+            "id": 19
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 11
+          },
+          {
+            "id": 33
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi lụa mềm mại cùng áo peplum nữ tính, phối với quần culottes hoặc quần giả váy. Giày cao gót kitten heel và phụ kiện như nhẫn, khăn lụa giúp tôn lên vẻ nữ tính mà vẫn casual."
+      },
+      {
+        "name": "Set đồ Casual ấm cúng mùa thu",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 15
+          }
+        ],
+        "quan": [
+          {
+            "id": 14
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 7
+          },
+          {
+            "id": 39
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun đơn giản kết hợp áo khoác da cá tính cùng quần nỉ ấm áp hoặc quần skinny. Giày boots hoặc chelsea boots và phụ kiện như mũ len, găng tay da giúp giữ ấm trong tiết trời thu se lạnh."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T05:04:50.374Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 160,
+      "weight": 58,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa hạ 1",
+        "ao": [
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 1
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo hoodie thoáng mát kết hợp với quần short năng động, giày sneaker tiện lợi cùng kính râm và túi xách nhỏ phù hợp cho mùa hạ."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 2",
+        "ao": [
+          {
+            "id": 2
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 20
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun đơn giản cùng quần baggy rộng rãi, sandal mát mẻ và phụ kiện mũ lưỡi trai, túi clutch tạo phong cách casual thoải mái."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 3",
+        "ao": [
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 10
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo croptop cá tính kết hợp quần skinny ôm, giày ballet flats nữ tính cùng bông tai và kẹp tóc dễ thương, phù hợp cho dịp đi chơi."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 4",
+        "ao": [
+          {
+            "id": 1
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 19
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi thoải mái cùng quần jogger co giãn, giày lười tiện lợi và phụ kiện ba lô, túi đeo chéo phong cách trẻ trung."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T05:23:27.407Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Sneaker"
+      ],
+      "phu_kien": [
+        "Vòng tay"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Casual Mùa Hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo thun hoặc áo polo phối cùng quần short hoặc quần jogger, kết hợp giày sneaker hoặc giày lười. Phụ kiện bao gồm mũ lưỡi trai và thắt lưng để hoàn thiện phong cách casual."
+      },
+      {
+        "name": "Set Casual Mùa Hạ 2",
+        "ao": [
+          {
+            "id": 22
+          },
+          {
+            "id": 1
+          }
+        ],
+        "quan": [
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun tay lỡ hoặc áo sơ mi kết hợp với quần short jeans hoặc quần short kaki, phối cùng sandal hoặc giày slip-on. Đồng hồ và túi xách giúp tăng thêm sự tiện lợi và phong cách."
+      },
+      {
+        "name": "Set Casual Mùa Hạ 3",
+        "ao": [
+          {
+            "id": 21
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 20
+          },
+          {
+            "id": 7
+          }
+        ],
+        "giay": [
+          {
+            "id": 7
+          },
+          {
+            "id": 24
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 28
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo phông dài tay hoặc áo tanktop phối cùng quần suông hoặc quần baggy, kết hợp giày oxford hoặc moccasin. Phụ kiện gồm balo và mắt kính thời trang để thêm nét cá tính."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T05:24:52.859Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày tây"
+      ],
+      "phu_kien": [
+        "Kính râm"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ]
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa hạ dành cho nam",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 3
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo thun hoặc áo polo kết hợp với quần jeans hoặc quần short, giày sneaker hoặc giày lười, cùng với mũ lưỡi trai và thắt lưng, phù hợp với phong cách casual mùa hạ. Set đồ giúp tôn dáng và thoải mái khi di chuyển."
+      },
+      {
+        "name": "Set đồ casual thoáng mát mùa hạ",
+        "ao": [
+          {
+            "id": 10
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 28
+          },
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo tanktop hoặc áo thun tay lỡ kết hợp với quần jogger hoặc quần thể thao, giày slip-on hoặc dép flip-flop, cùng với kính râm và đồng hồ, mang đến sự thoải mái và năng động cho ngày hè."
+      },
+      {
+        "name": "Set đồ đơn giản mà phong cách",
+        "ao": [
+          {
+            "id": 24
+          },
+          {
+            "id": 29
+          }
+        ],
+        "quan": [
+          {
+            "id": 5
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 7
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 23
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo sơ mi trắng hoặc áo sơ mi ngắn tay kết hợp với quần kaki hoặc quần skinny, giày oxford hoặc giày loafer, cùng với cà vạt và túi xách, tạo nên phong cách casual lịch lãm nhưng vẫn thoải mái trong mùa hè."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T14:24:13.841Z",
+    "selectedItems": {
+      "ao": [
+        "Áo thun"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Sneaker"
+      ],
+      "phu_kien": [
+        "Đồng hồ",
+        "Mũ len",
+        "Mũ lưỡi trai"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "xuân",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa xuân 1",
+        "ao": [
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ với áo hoodie ấm áp phù hợp tiết trời xuân mát mẻ, kết hợp cùng quần jeans cổ điển và giày sneaker thoải mái. Mũ lưỡi trai thêm nét cá tính cho tổng thể."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 2",
+        "ao": [
+          {
+            "id": 2
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 1
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun đơn giản mix cùng quần short năng động và sandal thoáng mát, hoàn hảo cho những ngày xuân ấm áp. Kính râm giúp bảo vệ mắt và tăng thêm phong cách."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 3",
+        "ao": [
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo polo thanh lịch kết hợp quần jogger tiện dụng và giày slip-on dễ mang, tạo nên set đồ thoải mái cho mùa xuân. Túi xách nhỏ thêm tiện ích và nét duyên dáng."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-11T14:57:38.107Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày cao gót"
+      ],
+      "phu_kien": [
+        "Khăn choàng cổ"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 160,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "đông",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Casual Mùa Đông 1",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 15
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ casual mùa đông với áo hoodie ấm áp kết hợp áo len bên trong cùng quần skinny jeans. Giày boots giữ ấm và khăn choàng cổ, găng tay len giúp chống lạnh hiệu quả."
+      },
+      {
+        "name": "Set Casual Mùa Đông 2",
+        "ao": [
+          {
+            "id": 15
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 5
+          }
+        ],
+        "giay": [
+          {
+            "id": 10
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ với áo khoác da phong cách kết hợp áo cardigan bên trong, quần kaki ấm áp. Giày chelsea boots và phụ kiện túi xách, thắt lưng tạo nên vẻ casual nhưng không kém phần thời trang."
+      },
+      {
+        "name": "Set Casual Mùa Đông 3",
+        "ao": [
+          {
+            "id": 16
+          },
+          {
+            "id": 1
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 7
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo khoác lông ấm áp cùng áo sơ mi bên trong, quần jogger thoải mái. Giày thể thao và ba lô, mũ len phù hợp cho phong cách casual mùa đông."
+      },
+      {
+        "name": "Set Casual Mùa Đông 4",
+        "ao": [
+          {
+            "id": 35
+          },
+          {
+            "id": 30
+          }
+        ],
+        "quan": [
+          {
+            "id": 14
+          }
+        ],
+        "giay": [
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 34
+          },
+          {
+            "id": 40
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo khoác phao ấm cùng áo sơ mi dài tay, quần nỉ ấm áp. Dép đi trong nhà và phụ kiện khăn len, găng tay len giữ ấm tốt trong mùa đông."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T02:20:59.359Z",
+    "selectedItems": {
+      "ao": [
+        "Áo hoodie",
+        "Áo cardigan",
+        "Áo croptop"
+      ],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nam",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa hạ nam 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ thoải mái với áo thun tay lỡ và quần short jeans, kết hợp giày sneaker hoặc giày lười, phụ kiện mũ lưỡi trai và thắt lưng."
+      },
+      {
+        "name": "Set đồ casual mùa hạ nam 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 32
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 22
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo polo hoặc tanktop cùng quần short thể thao, giày slip-on hoặc dép, phụ kiện túi xách và băng đô."
+      },
+      {
+        "name": "Set đồ casual mùa hạ nam 3",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 29
+          }
+        ],
+        "quan": [
+          {
+            "id": 13
+          },
+          {
+            "id": 26
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          },
+          {
+            "id": 34
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 1
+          },
+          {
+            "id": 29
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi ngắn tay với quần lửng kaki, giày sandal hoặc giày đi biển, phụ kiện kính râm và dây đồng hồ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T02:27:19.787Z",
+    "selectedItems": {
+      "ao": [
+        "Áo khoác jean"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày cao gót"
+      ],
+      "phu_kien": [
+        "Mũ lưỡi trai"
+      ],
+      "style": [
+        "Smart Casual"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "xuân",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa xuân 1",
+        "ao": [
+          {
+            "id": 2
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo thun đơn giản, quần jogger thoải mái cùng giày sneaker năng động. Phụ kiện đi kèm là mũ lưỡi trai và đồng hồ phù hợp với phong cách casual mùa xuân."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 2",
+        "ao": [
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 14
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo polo kết hợp với quần jeans cổ điển cùng giày lười thoải mái. Thêm thắt lưng và túi xách để hoàn thiện phong cách casual thanh lịch cho mùa xuân."
+      },
+      {
+        "name": "Set đồ casual mùa xuân 3",
+        "ao": [
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          }
+        ],
+        "giay": [
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 27
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo hoodie ấm áp kết hợp với quần short năng động cùng dép flip-flop thoải mái. Phụ kiện khăn bandana và ba lô giúp set đồ thêm cá tính, phù hợp phong cách casual."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T02:36:37.579Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi",
+        "Áo hoodie",
+        "Áo len"
+      ],
+      "quan": [
+        "Quần jeans",
+        "Quần legging",
+        "Quần short"
+      ],
+      "giay": [
+        "Giày derby",
+        "Giày oxford"
+      ],
+      "phu_kien": [
+        "Khăn choàng cổ",
+        "Mũ lưỡi trai"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 55,
+      "gender": "nữ",
+      "season": "đông",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ mùa đông Casual ấm áp",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ],
+        "quan": [
+          {
+            "id": 14
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          },
+          {
+            "id": 11
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 7
+          },
+          {
+            "id": 34
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo hoodie và áo len giữ ấm kết hợp cùng quần nỉ và quần skinny tạo sự tiện lợi, ấm áp. Giày boots và combat boots giúp giữ ấm chân. Phụ kiện mũ len và khăn len tăng thêm sự ấm áp và phong cách casual."
+      },
+      {
+        "name": "Set đồ mùa đông Casual nữ tính",
+        "ao": [
+          {
+            "id": 11
+          },
+          {
+            "id": 15
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 6
+          }
+        ],
+        "giay": [
+          {
+            "id": 10
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 5
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ kết hợp áo cardigan và áo khoác da mang lại sự ấm áp và phong cách. Quần jeans và legging giúp tạo sự thoải mái. Giày chelsea boots và slippers phù hợp cho mùa đông. Phụ kiện khăn choàng cổ và túi xách tăng thêm nét nữ tính và tiện lợi."
+      },
+      {
+        "name": "Set đồ mùa đông Casual trẻ trung",
+        "ao": [
+          {
+            "id": 37
+          },
+          {
+            "id": 12
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 25
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 6
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ với áo khoác cardigan và áo bomber kết hợp cùng quần jogger và quần thể thao, tạo sự trẻ trung và năng động. Giày sneaker và running shoes mang lại sự thoải mái. Phụ kiện ba lô và mũ lưỡi trai phù hợp với phong cách casual."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T02:39:44.236Z",
+    "selectedItems": {
+      "ao": [
+        "Áo khoác jean"
+      ],
+      "quan": [
+        "Quần baggy"
+      ],
+      "giay": [
+        "Giày cao gót"
+      ],
+      "phu_kien": [
+        "Mũ fedora"
+      ],
+      "style": [
+        "Unisex"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Casual Mùa Hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 10
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ casual mùa hạ với áo thun tay lỡ và quần short jeans, kết hợp giày sneaker hoặc flip-flop thoải mái. Phụ kiện gồm mũ lưỡi trai và bông tai tạo nét cá tính."
+      },
+      {
+        "name": "Set Casual Mùa Hạ 2",
+        "ao": [
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 20
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 19
+          },
+          {
+            "id": 22
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ thoáng mát với áo croptop hoặc tanktop cùng quần jogger hoặc quần suông, đi giày ballet flats hoặc slippers. Phụ kiện túi đeo chéo và băng đô tạo vẻ nữ tính."
+      },
+      {
+        "name": "Set Casual Mùa Hạ 3",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 24
+          }
+        ],
+        "quan": [
+          {
+            "id": 17
+          },
+          {
+            "id": 26
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ đơn giản với áo polo hoặc áo sơ mi trắng kết hợp quần thun hoặc quần kaki lửng, giày lười hoặc slip-on tiện lợi. Phụ kiện đồng hồ và túi đeo hông tăng thêm tiện ích."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T02:42:06.360Z",
+    "selectedItems": {
+      "ao": [],
+      "quan": [],
+      "giay": [],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 160,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 19
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo thun tay lỡ phối cùng quần short jeans và sneaker giúp bạn thoải mái, năng động trong mùa hè. Phụ kiện mũ lưỡi trai và túi đeo chéo tạo điểm nhấn cá tính."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 37
+          },
+          {
+            "id": 20
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 1
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo polo kết hợp với quần short thể thao nữ và giày ballet flats mát mẻ, phù hợp cho những ngày hè nóng bức. Kính râm và túi xách nhỏ tăng thêm nét thanh lịch."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 3",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 26
+          }
+        ],
+        "giay": [
+          {
+            "id": 35
+          },
+          {
+            "id": 36
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 10
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo hoodie dáng rộng cùng quần baggy và dép crocs mang lại phong cách thoải mái, cá tính. Phụ kiện bông tai và túi đeo hông giúp set đồ thêm phần trẻ trung."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 4",
+        "ao": [
+          {
+            "id": 27
+          },
+          {
+            "id": 29
+          }
+        ],
+        "quan": [
+          {
+            "id": 8
+          },
+          {
+            "id": 19
+          }
+        ],
+        "giay": [
+          {
+            "id": 13
+          },
+          {
+            "id": 15
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 11
+          },
+          {
+            "id": 33
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi hoa ngắn tay mix cùng quần culottes và giày espadrille tạo vẻ nữ tính, nhẹ nhàng. Nhẫn và khăn lụa là điểm nhấn tinh tế cho set đồ mùa hè."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T07:27:53.070Z",
+    "selectedItems": {
+      "ao": [
+        "Áo khoác jean"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày búp bê"
+      ],
+      "phu_kien": [
+        "Khăn choàng cổ"
+      ],
+      "style": [
+        "Minimalism"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ mùa hạ với áo thun và croptop phối cùng quần short jeans, giày sneaker hoặc flip-flop thoải mái, kết hợp mũ lưỡi trai và kẹp tóc để tăng thêm nét cá tính và thoáng mát."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 20
+          },
+          {
+            "id": 33
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 10
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo polo hoặc áo thun tay lỡ mix cùng quần suông hoặc short linen, đi giày lười hoặc ballet flats để tạo sự thoải mái. Phụ kiện bông tai và túi đeo hông giúp set đồ thêm nữ tính."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 3",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 24
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 34
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo sơ mi trắng hoặc áo sơ mi basic kết hợp quần baggy hoặc short lửng, sandal hoặc giày slip-on dễ đi. Đồng hồ và túi xách nhỏ giúp hoàn thiện phong cách casual gọn gàng."
+      },
+      {
+        "name": "Set đồ Casual mùa hạ 4",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 17
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 35
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Áo hoodie hoặc tanktop phối cùng quần jogger hoặc quần thun, giày thể thao hoặc dép slipper. Ba lô và bờm tóc là phụ kiện tiện lợi cho hoạt động hàng ngày."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T07:49:48.172Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày tây"
+      ],
+      "phu_kien": [
+        "Kính râm",
+        "Vòng cổ",
+        "Khăn choàng cổ"
+      ],
+      "style": [
+        "Casual"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa hạ dễ thương",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 34
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 22
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo thun và áo thun tay lỡ phối cùng quần short và quần short lửng, đi giày sneaker hoặc slip-on, đội mũ lưỡi trai hoặc băng đô để tạo phong cách casual thoải mái cho mùa hạ."
+      },
+      {
+        "name": "Set đồ casual mùa hạ năng động",
+        "ao": [
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 7
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 19
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo croptop và áo tanktop phối cùng quần jogger và quần baggy, đi sandal hoặc flip-flop, đeo túi đeo chéo hoặc túi đeo hông để tạo phong cách casual năng động, mát mẻ cho mùa hạ."
+      },
+      {
+        "name": "Set đồ casual mùa hạ thanh lịch",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 23
+          }
+        ],
+        "quan": [
+          {
+            "id": 20
+          },
+          {
+            "id": 21
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 21
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo sơ mi và áo sơ mi caro phối cùng quần suông và quần ống đứng, đi giày lười hoặc ballet flats, đeo đồng hồ và túi xách để tạo phong cách casual thanh lịch, nhẹ nhàng cho mùa hạ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T07:51:16.200Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày tây"
+      ],
+      "phu_kien": [
+        "Kính râm",
+        "Vòng cổ",
+        "Khăn choàng cổ"
+      ],
+      "style": [
+        "Casual"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual",
+        "hiphop"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa hạ",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 22
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 36
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 27
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ casual mùa hạ với áo thun và áo tay lỡ thoải mái, quần short caro hoặc quần short thể thao nữ, kết hợp cùng giày sneaker hoặc slip-on. Phụ kiện là mũ lưỡi trai và khăn bandana để tăng thêm nét cá tính."
+      },
+      {
+        "name": "Set đồ Hip Hop mùa hạ",
+        "ao": [
+          {
+            "id": 4
+          },
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 11
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          },
+          {
+            "id": 30
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 30
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 15
+          }
+        ],
+        "description": "Set đồ hip hop năng động với áo hoodie hoặc áo croptop cùng quần baggy hoặc quần cargo. Giày boots hoặc giày bóng rổ giúp tôn dáng và cá tính. Phụ kiện gồm ba lô và vòng chân để hoàn thiện phong cách."
+      },
+      {
+        "name": "Set đồ Casual - Hip Hop phối hợp",
+        "ao": [
+          {
+            "id": 21
+          },
+          {
+            "id": 20
+          }
+        ],
+        "quan": [
+          {
+            "id": 28
+          },
+          {
+            "id": 33
+          }
+        ],
+        "giay": [
+          {
+            "id": 21
+          },
+          {
+            "id": 25
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 2
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "description": "Set đồ kết hợp giữa casual và hip hop với áo phông dài tay hoặc áo tanktop, quần skinny hoặc quần short linen. Giày ballet flats hoặc giày chạy bộ thoải mái. Phụ kiện là túi xách và đồng hồ để tạo điểm nhấn."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T07:52:40.485Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày tây"
+      ],
+      "phu_kien": [
+        "Kính râm",
+        "Vòng cổ",
+        "Khăn choàng cổ"
+      ],
+      "style": [
+        "Casual"
+      ]
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 50,
+      "gender": "nữ",
+      "season": "hạ",
+      "style": [
+        "casual",
+        "hiphop"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual Hiphop Mùa Hạ 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 13
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "description": "Set đồ kết hợp áo thun và hoodie cho sự thoải mái, quần baggy và thể thao tạo phong cách hiphop năng động. Giày sneaker và phụ kiện mũ lưỡi trai cùng dây chuyền giúp set đồ thêm cá tính."
+      },
+      {
+        "name": "Set đồ Casual Hiphop Mùa Hạ 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 9
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 27
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "description": "Áo polo và croptop phối cùng quần short jeans và giày slip-on, thêm túi xách và khăn bandana để tăng thêm nét hiphop. Set đồ thoáng mát và trẻ trung, phù hợp mùa hè."
+      },
+      {
+        "name": "Set đồ Casual Hiphop Mùa Hạ 3",
+        "ao": [
+          {
+            "id": 22
+          },
+          {
+            "id": 35
+          }
+        ],
+        "quan": [
+          {
+            "id": 11
+          },
+          {
+            "id": 28
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          },
+          {
+            "id": 11
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 3
+          },
+          {
+            "id": 36
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "description": "Áo thun tay lỡ và áo khoác phao phối với quần cargo và giày boots, điểm nhấn là vòng tay và mũ snapback. Set đồ cá tính, phù hợp đi chơi hoặc dạo phố."
+      },
+      {
+        "name": "Set đồ Casual Hiphop Mùa Hạ 4",
+        "ao": [
+          {
+            "id": 10
+          },
+          {
+            "id": 12
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 22
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          },
+          {
+            "id": 30
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 19
+          },
+          {
+            "id": 31
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "description": "Áo tanktop và áo bomber phối với quần jogger và giày thể thao, thêm túi đeo chéo và túi đeo hông. Thiết kế năng động, thoải mái, đậm chất đường phố."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T13:37:26.805Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi",
+        "Áo blazer",
+        "Áo khoác jean"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Giày oxford"
+      ],
+      "phu_kien": [
+        "Mũ lưỡi trai"
+      ],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "hạ",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ casual mùa hạ nam 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 8
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 28
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ phù hợp cho nam với chiều cao 150cm và cân nặng 60kg, gồm áo thun và áo polo kết hợp với quần short và quần jogger, giày sneaker hoặc giày lười, cùng phụ kiện mũ lưỡi trai và kính thời trang, phong cách casual thoải mái cho mùa hạ."
+      },
+      {
+        "name": "Set đồ casual mùa hạ nam 2",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 21
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 30
+          }
+        ],
+        "giay": [
+          {
+            "id": 3
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 16
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo sơ mi hoặc áo phông dài tay kết hợp với quần jeans hoặc quần short jeans, giày sandal hoặc slip-on thoáng mát, cùng phụ kiện đồng hồ và túi xách, phù hợp với phong cách casual mùa hạ cho nam."
+      },
+      {
+        "name": "Set đồ casual mùa hạ nam 3",
+        "ao": [
+          {
+            "id": 22
+          },
+          {
+            "id": 10
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 32
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          },
+          {
+            "id": 34
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 17
+          },
+          {
+            "id": 29
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ với áo thun tay lỡ hoặc áo tanktop cùng quần baggy hoặc quần short thể thao, giày running shoes hoặc beach shoes, cùng ba lô và dây đồng hồ, phong cách casual năng động cho mùa hạ."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T13:43:24.126Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Sandal"
+      ],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "xuân",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set Casual Mùa Xuân 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 1
+          },
+          {
+            "id": 3
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ casual với áo thun và áo hoodie, kết hợp quần jeans và quần short, cùng giày sneaker, phù hợp cho mùa xuân. Phụ kiện bao gồm mũ lưỡi trai và thắt lưng."
+      },
+      {
+        "name": "Set Casual Mùa Xuân 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo polo và áo cardigan, kết hợp quần jogger và quần kaki, đi giày lười. Phụ kiện gồm đồng hồ và ba lô, phù hợp cho phong cách casual mùa xuân."
+      },
+      {
+        "name": "Set Casual Mùa Xuân 3",
+        "ao": [
+          {
+            "id": 1
+          },
+          {
+            "id": 12
+          }
+        ],
+        "quan": [
+          {
+            "id": 7
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 9
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 1
+          },
+          {
+            "id": 15
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ casual với áo sơ mi và áo bomber, kết hợp quần baggy và quần thể thao, đi giày boots. Phụ kiện gồm kính râm và găng tay, phù hợp cho mùa xuân."
+      },
+      {
+        "name": "Set Casual Mùa Xuân 4",
+        "ao": [
+          {
+            "id": 21
+          },
+          {
+            "id": 5
+          }
+        ],
+        "quan": [
+          {
+            "id": 20
+          },
+          {
+            "id": 21
+          }
+        ],
+        "giay": [
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 19
+          },
+          {
+            "id": 28
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ gồm áo phông dài tay và áo len, kết hợp quần suông và quần ống đứng, đi giày slip-on. Phụ kiện gồm túi đeo chéo và mắt kính thời trang, phù hợp cho phong cách casual."
+      },
+      {
+        "name": "Set Casual Mùa Xuân 5",
+        "ao": [
+          {
+            "id": 24
+          },
+          {
+            "id": 20
+          }
+        ],
+        "quan": [
+          {
+            "id": 18
+          },
+          {
+            "id": 22
+          }
+        ],
+        "giay": [
+          {
+            "id": 14
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 11
+          },
+          {
+            "id": 33
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ với áo sơ mi trắng và áo khoác kaki, kết hợp quần linen và quần ống rộng, đi giày loafer. Phụ kiện gồm nhẫn và khăn lụa, phù hợp cho mùa xuân."
+      }
+    ],
+    "star": 0
+  },
+  {
+    "time": "2025-06-12T13:51:03.726Z",
+    "selectedItems": {
+      "ao": [
+        "Áo sơ mi"
+      ],
+      "quan": [
+        "Quần tây"
+      ],
+      "giay": [
+        "Sandal"
+      ],
+      "phu_kien": [],
+      "style": []
+    },
+    "paramHistories": {
+      "height": 150,
+      "weight": 60,
+      "gender": "nam",
+      "season": "xuân",
+      "style": [
+        "casual"
+      ],
+      "ask": ""
+    },
+    "results": [
+      {
+        "name": "Set đồ Casual mùa xuân 1",
+        "ao": [
+          {
+            "id": 2
+          },
+          {
+            "id": 4
+          }
+        ],
+        "quan": [
+          {
+            "id": 4
+          },
+          {
+            "id": 7
+          }
+        ],
+        "giay": [
+          {
+            "id": 1
+          },
+          {
+            "id": 12
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 6
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ thoải mái với áo thun và áo hoodie, kết hợp quần jogger hoặc quần baggy cùng giày sneaker hoặc slip-on. Phụ kiện gồm mũ lưỡi trai và thắt lưng, phù hợp cho nam có chiều cao 150cm và cân nặng 60kg."
+      },
+      {
+        "name": "Set đồ Casual mùa xuân 2",
+        "ao": [
+          {
+            "id": 8
+          },
+          {
+            "id": 11
+          }
+        ],
+        "quan": [
+          {
+            "id": 5
+          },
+          {
+            "id": 18
+          }
+        ],
+        "giay": [
+          {
+            "id": 4
+          },
+          {
+            "id": 14
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 2
+          },
+          {
+            "id": 17
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ phong cách với áo polo và áo cardigan, mix cùng quần kaki hoặc quần linen. Giày lười hoặc loafer cùng đồng hồ và ba lô sẽ giúp bạn tự tin xuống phố trong tiết trời xuân dịu nhẹ."
+      },
+      {
+        "name": "Set đồ Casual mùa xuân 3",
+        "ao": [
+          {
+            "id": 22
+          },
+          {
+            "id": 25
+          }
+        ],
+        "quan": [
+          {
+            "id": 3
+          },
+          {
+            "id": 10
+          }
+        ],
+        "giay": [
+          {
+            "id": 25
+          },
+          {
+            "id": 37
+          }
+        ],
+        "phu_kien": [
+          {
+            "id": 16
+          },
+          {
+            "id": 27
+          }
+        ],
+        "phong_cach": [
+          {
+            "id": 1
+          }
+        ],
+        "description": "Set đồ năng động với áo thun tay lỡ hoặc áo sơ mi denim, quần short hoặc quần thể thao cùng giày running hoặc flip-flop. Túi xách và khăn bandana sẽ là điểm nhấn hoàn hảo cho set đồ này."
+      }
+    ],
+    "star": 0
+  }
+]

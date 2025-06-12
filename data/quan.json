@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name_b": "Quần jeans",
+    "description": "Quần bò, năng động, dễ phối đồ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 2,
+    "name_b": "Quần tây",
+    "description": "Quần âu, lịch sự, phù hợp công sở.",
+    "thumb_url": ""
+  },
+  {
+    "id": 3,
+    "name_b": "Quần short",
+    "description": "Quần ngắn, thoải mái, phù hợp mùa hè.",
+    "thumb_url": ""
+  },
+  {
+    "id": 4,
+    "name_b": "Quần jogger",
+    "description": "Quần thể thao, năng động.",
+    "thumb_url": ""
+  },
+  {
+    "id": 5,
+    "name_b": "Quần kaki",
+    "description": "Chất liệu kaki, trẻ trung.",
+    "thumb_url": ""
+  },
+  {
+    "id": 6,
+    "name_b": "Quần legging",
+    "description": "Ôm sát, co giãn, phù hợp nữ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 7,
+    "name_b": "Quần baggy",
+    "description": "Ống rộng, thoải mái, cá tính.",
+    "thumb_url": ""
+  },
+  {
+    "id": 8,
+    "name_b": "Quần culottes",
+    "description": "Ống rộng, nữ tính, hiện đại.",
+    "thumb_url": ""
+  },
+  {
+    "id": 9,
+    "name_b": "Quần ống loe",
+    "description": "Ống loe, phong cách retro.",
+    "thumb_url": ""
+  },
+  {
+    "id": 10,
+    "name_b": "Quần thể thao",
+    "description": "Chuyên dụng cho vận động.",
+    "thumb_url": ""
+  },
+  {
+    "id": 11,
+    "name_b": "Quần cargo",
+    "description": "Nhiều túi, phong cách đường phố.",
+    "thumb_url": ""
+  },
+  {
+    "id": 12,
+    "name_b": "Quần yếm",
+    "description": "Có dây đeo vai, trẻ trung.",
+    "thumb_url": ""
+  },
+  {
+    "id": 13,
+    "name_b": "Quần lửng",
+    "description": "Dài qua gối, mát mẻ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 14,
+    "name_b": "Quần nỉ",
+    "description": "Chất nỉ, ấm áp, mặc nhà.",
+    "thumb_url": ""
+  },
+  {
+    "id": 15,
+    "name_b": "Quần pijama",
+    "description": "Mặc ngủ, thoải mái.",
+    "thumb_url": ""
+  },
+  {
+    "id": 16,
+    "name_b": "Quần biker",
+    "description": "Quần ôm sát, dành cho thể thao.",
+    "thumb_url": ""
+  },
+  {
+    "id": 17,
+    "name_b": "Quần thun",
+    "description": "Chất liệu co giãn, mặc nhà.",
+    "thumb_url": ""
+  },
+  {
+    "id": 18,
+    "name_b": "Quần linen",
+    "description": "Chất vải lanh, mát mẻ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 19,
+    "name_b": "Quần giả váy",
+    "description": "Thiết kế như váy, nhưng là quần.",
+    "thumb_url": ""
+  },
+  {
+    "id": 20,
+    "name_b": "Quần suông",
+    "description": "Ống suông, thanh lịch.",
+    "thumb_url": ""
+  },
+  {
+    "id": 21,
+    "name_b": "Quần ống đứng",
+    "description": "Ống thẳng, dễ phối đồ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 22,
+    "name_b": "Quần ống rộng",
+    "description": "Rộng thoải mái, cá tính.",
+    "thumb_url": ""
+  },
+  {
+    "id": 23,
+    "name_b": "Quần ống bó",
+    "description": "Ôm sát chân, tôn dáng.",
+    "thumb_url": ""
+  },
+  {
+    "id": 24,
+    "name_b": "Quần tạp dề",
+    "description": "Dùng cho bếp, bảo hộ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 25,
+    "name_b": "Quần bảo hộ",
+    "description": "Chống va đập, dùng lao động.",
+    "thumb_url": ""
+  },
+  {
+    "id": 26,
+    "name_b": "Quần kaki lửng",
+    "description": "Kaki, dài ngang bắp chân.",
+    "thumb_url": ""
+  },
+  {
+    "id": 27,
+    "name_b": "Quần thể thao lửng",
+    "description": "Thể thao, dài ngang gối.",
+    "thumb_url": ""
+  },
+  {
+    "id": 28,
+    "name_b": "Quần skinny",
+    "description": "Quần bó sát, tôn dáng.",
+    "thumb_url": ""
+  },
+  {
+    "id": 29,
+    "name_b": "Quần tây lửng",
+    "description": "Quần âu, dài ngang gối.",
+    "thumb_url": ""
+  },
+  {
+    "id": 30,
+    "name_b": "Quần short jeans",
+    "description": "Quần short chất jeans.",
+    "thumb_url": ""
+  },
+  {
+    "id": 31,
+    "name_b": "Quần short kaki",
+    "description": "Quần short chất kaki.",
+    "thumb_url": ""
+  },
+  {
+    "id": 32,
+    "name_b": "Quần short thể thao",
+    "description": "Short cho vận động.",
+    "thumb_url": ""
+  },
+  {
+    "id": 33,
+    "name_b": "Quần short linen",
+    "description": "Short vải lanh, mát.",
+    "thumb_url": ""
+  },
+  {
+    "id": 34,
+    "name_b": "Quần short lửng",
+    "description": "Short dài ngang gối.",
+    "thumb_url": ""
+  },
+  {
+    "id": 35,
+    "name_b": "Quần short hoa",
+    "description": "Short họa tiết hoa.",
+    "thumb_url": ""
+  },
+  {
+    "id": 36,
+    "name_b": "Quần short caro",
+    "description": "Short họa tiết caro.",
+    "thumb_url": ""
+  },
+  {
+    "id": 37,
+    "name_b": "Quần short thể thao nữ",
+    "description": "Short thể thao cho nữ.",
+    "thumb_url": ""
+  },
+  {
+    "id": 38,
+    "name_b": "Quần short thể thao nam",
+    "description": "Short thể thao cho nam.",
+    "thumb_url": ""
+  },
+  {
+    "id": 39,
+    "name_b": "Quần short mặc nhà",
+    "description": "Short mặc nhà, thoải mái.",
+    "thumb_url": ""
+  },
+  {
+    "id": 40,
+    "name_b": "Quần short ngủ",
+    "description": "Short mặc ngủ, mềm mại.",
+    "thumb_url": ""
+  }
+]

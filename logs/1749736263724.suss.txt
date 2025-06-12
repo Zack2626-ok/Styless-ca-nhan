@@ -1,0 +1,27 @@
+{
+  "id": "gen-1749736230-YWdhafgIKh5IaPAvyhFD",
+  "provider": "Targon",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "object": "chat.completion",
+  "created": 1749736237,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```json\n[\n  {\n    \"name\": \"Set đồ Casual mùa xuân 1\",\n    \"ao\": [{\"id\": 2}, {\"id\": 4}],\n    \"quan\": [{\"id\": 4}, {\"id\": 7}],\n    \"giay\": [{\"id\": 1}, {\"id\": 12}],\n    \"phu_kien\": [{\"id\": 6}, {\"id\": 14}],\n    \"phong_cach\": [{\"id\": 1}],\n    \"description\": \"Set đồ thoải mái với áo thun và áo hoodie, kết hợp quần jogger hoặc quần baggy cùng giày sneaker hoặc slip-on. Phụ kiện gồm mũ lưỡi trai và thắt lưng, phù hợp cho nam có chiều cao 150cm và cân nặng 60kg.\"\n  },\n  {\n    \"name\": \"Set đồ Casual mùa xuân 2\",\n    \"ao\": [{\"id\": 8}, {\"id\": 11}],\n    \"quan\": [{\"id\": 5}, {\"id\": 18}],\n    \"giay\": [{\"id\": 4}, {\"id\": 14}],\n    \"phu_kien\": [{\"id\": 2}, {\"id\": 17}],\n    \"phong_cach\": [{\"id\": 1}],\n    \"description\": \"Set đồ phong cách với áo polo và áo cardigan, mix cùng quần kaki hoặc quần linen. Giày lười hoặc loafer cùng đồng hồ và ba lô sẽ giúp bạn tự tin xuống phố trong tiết trời xuân dịu nhẹ.\"\n  },\n  {\n    \"name\": \"Set đồ Casual mùa xuân 3\",\n    \"ao\": [{\"id\": 22}, {\"id\": 25}],\n    \"quan\": [{\"id\": 3}, {\"id\": 10}],\n    \"giay\": [{\"id\": 25}, {\"id\": 37}],\n    \"phu_kien\": [{\"id\": 16}, {\"id\": 27}],\n    \"phong_cach\": [{\"id\": 1}],\n    \"description\": \"Set đồ năng động với áo thun tay lỡ hoặc áo sơ mi denim, quần short hoặc quần thể thao cùng giày running hoặc flip-flop. Túi xách và khăn bandana sẽ là điểm nhấn hoàn hảo cho set đồ này.\"\n  }\n]\n```",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2621,
+    "completion_tokens": 582,
+    "total_tokens": 3203,
+    "prompt_tokens_details": null
+  }
+}

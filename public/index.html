@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styless Cá Nhân</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Vue.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <!-- Axios CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.9.0/axios.min.js" integrity="sha512-FPlUpimug7gt7Hn7swE8N2pHw/+oQMq/+R/hH/2hZ43VOQ+Kjh25rQzuLyPz7aUWKlRpI7wXbY6+U3oFPGjPOA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <div id="app">
+        <div class="container">
+            <!-- Left Panel - Tabs -->
+            <div class="left-panel">
+                <div class="tab-buttons">
+                    <button 
+                        class="tab-button" 
+                        :class="{ active: leftTab === 'info' }" 
+                        @click="leftTab = 'info'"
+                    >Cá nhân</button>
+                    <button 
+                        class="tab-button" 
+                        :class="{ active: leftTab === 'ao' }" 
+                        @click="leftTab = 'ao'"
+                    >Áo</button>
+                    <button 
+                        class="tab-button" 
+                        :class="{ active: leftTab === 'quan' }" 
+                        @click="leftTab = 'quan'"
+                    >Quần</button>
+                    <button 
+                        class="tab-button" 
+                        :class="{ active: leftTab === 'giay' }" 
+                        @click="leftTab = 'giay'"
+                    >Giày</button>
+                    <button 
+                        class="tab-button" 
+                        :class="{ active: leftTab === 'phu_kien' }" 
+                        @click="leftTab = 'phu_kien'"
+                    >Phụ kiện</button>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane" :class="{active: leftTab === 'info'}" v-show="leftTab === 'info'">
+                        <div class="form-group">
+                            <label>Chiều cao (cm):</label>
+                            <input type="number" v-model="paramHistories.height" min="100" max="250" placeholder="Nhập chiều cao" />
+                        </div>
+                        <div class="form-group">
+                            <label>Cân nặng (kg):</label>
+                            <input type="number" v-model="paramHistories.weight" min="30" max="200" placeholder="Nhập cân nặng" />
+                        </div>
+                        <div class="form-group">
+                            <label>Giới tính:</label>
+                            <label><input type="radio" value="nam" v-model="paramHistories.gender" /> Nam</label>
+                            <label><input type="radio" value="nữ" v-model="paramHistories.gender" /> Nữ</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Mùa hiện tại:</label>
+                            <select v-model="paramHistories.season">
+                                <option disabled value="">Chọn mùa</option>
+                                <option value="xuân">Xuân</option>
+                                <option value="hạ">Hạ</option>
+                                <option value="thu">Thu</option>
+                                <option value="đông">Đông</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="tab-pane" :class="{active: leftTab === 'ao'}" v-show="leftTab === 'ao'">
+                        <div class="form-group">
+                            <label>Áo:</label>
+                            <div class="ingredient-list">
+                                <span 
+                                    v-for="item in aoList" 
+                                    class="ingredient-tag" 
+                                    :class="{ selected: isSelected(item, 'ao') }"
+                                    @click="toggleItem(item, 'ao')"
+                                >
+                                    {{ item }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" :class="{active: leftTab === 'quan'}" v-show="leftTab === 'quan'">
+                        <div class="form-group">
+                            <label>Quần:</label>
+                            <div class="ingredient-list">
+                                <span 
+                                    v-for="item in quanList" 
+                                    class="ingredient-tag" 
+                                    :class="{ selected: isSelected(item, 'quan') }"
+                                    @click="toggleItem(item, 'quan')"
+                                >
+                                    {{ item }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" :class="{active: leftTab === 'giay'}" v-show="leftTab === 'giay'">
+                        <div class="form-group">
+                            <label>Giày:</label>
+                            <div class="ingredient-list">
+                                <span 
+                                    v-for="item in giayList" 
+                                    class="ingredient-tag" 
+                                    :class="{ selected: isSelected(item, 'giay') }"
+                                    @click="toggleItem(item, 'giay')"
+                                >
+                                    {{ item }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" :class="{active: leftTab === 'phu_kien'}" v-show="leftTab === 'phu_kien'">
+                        <div class="form-group">
+                            <label>Phụ kiện:</label>
+                            <div class="ingredient-list">
+                                <span 
+                                    v-for="item in phuKienList" 
+                                    class="ingredient-tag" 
+                                    :class="{ selected: isSelected(item, 'phu_kien') }"
+                                    @click="toggleItem(item, 'phu_kien')"
+                                >
+                                    {{ item }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Center Panel - Chat -->
+            <div class="center-panel">
+                <div class="chat-header">
+                    <h1><span style="font-size: 32px;">👗 Styless AI</span></h1>
+                    <p>Gợi ý set đồ dựa trên thông tin cá nhân và sở thích của bạn</p>
+                </div>
+                
+                <!-- Selected Items Display -->
+                <div class="selected-items">
+                    <h3>Mong muốn của bạn:</h3>
+                    <ul class="user-info-list user-info-row">
+                        <li><b>Chiều cao:</b> {{ paramHistories && paramHistories.height ? paramHistories.height + ' cm' : 'Chưa nhập' }}</li>
+                        <li><b>Cân nặng:</b> {{ paramHistories && paramHistories.weight ? paramHistories.weight + ' kg' : 'Chưa nhập' }}</li>
+                        <li><b>Giới tính:</b> {{ paramHistories && paramHistories.gender ? paramHistories.gender : 'Chưa chọn' }}</li>
+                        <li><b>Mùa hiện tại:</b> {{ paramHistories && paramHistories.season ? paramHistories.season : 'Chưa chọn' }}</li>
+                    </ul>
+                    <h3>Lựa chọn của bạn:</h3>
+                    <div class="selected-tags">
+                        <div v-if="allSelectedItems.length === 0" class="empty-selection">
+                            Chưa chọn nguyên liệu nào, hệ thống sẽ tự động chọn giúp bạn !
+                        </div>
+                        <template v-else>
+                            <div v-for="item in allSelectedItems" class="selected-tag">
+                                {{ item }}
+                                <span class="remove" @click="removeSelectedItem(item)">×</span>
+                            </div>
+                        </template>
+                    </div>
+                </div>
+                
+                <div class="chat-messages">
+                    <div v-if="messages.length === 0" class="welcome-message">
+                        <h3>Chào mừng đến với AI Styless!</h3>
+                        <p>Một vài bộ đồ bạn yêu thích nhất</p>
+                    </div>
+                    <div v-else>
+                        <div v-for="message in messages" :class="['message', message.type]">
+                            <div class="message-content">
+                                <template v-if="Array.isArray(message.content)">
+                                    <div class="outfit-list">
+                                        <div v-for="(set, idx) in message.content" :key="idx" class="outfit-item">
+                                            <div class="outfit-title">{{ set.name }}</div>
+                                            <div class="outfit-desc">{{ set.description }}</div>
+                                            <ul class="outfit-detail">
+                                                <li><b>Áo:</b> <span>{{ set.ao.map(a => getNameById('ao', a.id)).join(', ') }}</span></li>
+                                                <li><b>Quần:</b> <span>{{ set.quan.map(q => getNameById('quan', q.id)).join(', ') }}</span></li>
+                                                <li><b>Giày:</b> <span>{{ set.giay.map(g => getNameById('giay', g.id)).join(', ') }}</span></li>
+                                                <li><b>Phụ kiện:</b> <span>{{ set.phu_kien.map(p => getNameById('phu_kien', p.id)).join(', ') }}</span></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </template>
+                                <!-- Nếu message.content là object như { ao: [...], quan: [...], ... } -->
+                                <template v-else>
+                                    <div v-if="typeof message.content === 'object'">
+                                        <div><b>Áo:</b> {{ (message.content.ao || []).join(', ') }}</div>
+                                        <div><b>Quần:</b> {{ (message.content.quan || []).join(', ') }}</div>
+                                        <div><b>Giày:</b> {{ (message.content.giay || []).join(', ') }}</div>
+                                        <div><b>Phụ kiện:</b> {{ (message.content.phu_kien || []).join(', ') }}</div>
+                                    </div>
+                                    <div v-else>
+                                        {{ message.content }}
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chat-input-container">
+                    <div class="chat-input-wrapper">
+                        <textarea 
+                            class="chat-input" 
+                            placeholder="Bạn muốn nấu món gì hôm nay?"
+                            rows="1"
+                            v-model="userMessage"
+                            @input="resizeTextarea"
+                            @keypress.enter.prevent="sendMessage"
+                        ></textarea>
+                        <button class="send-button" @click="sendMessage" :disabled="isSending">
+                            {{ isSending ? 'Đang gửi...' : 'Gửi' }}
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right Panel - History -->
+            <div class="right-panel">
+                <div class="history-header">
+                    <h2>📚 Lịch sử</h2>
+                    <p>Các Outfit đã gợi ý</p>
+                </div>  
+                
+                <div class="history-list">
+                    <div v-for="item in history" class="history-item" @click="openHistoryPopup(item)">
+                        <div class="history-title">{{ item.results[0]?.name }}</div>
+                        <div class="history-time">{{ item.time }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Popup for History Details -->
+        <div class="popup-overlay" v-if="showPopup" @click.self="closePopup">
+            <div class="popup-content">
+                <button class="popup-close" @click="closePopup">×</button>
+                <div v-if="selectedHistoryItem">
+                    <h2 class="popup-title">{{ selectedHistoryItem.results[0]?.name }}</h2>
+                    <div class="popup-section" v-for="result in selectedHistoryItem.results">
+                        <div><b>Mô tả:</b> {{ result.description }}</div>
+                        <div><b>Áo:</b> {{ getNamesByIds(aoListRaw, result.ao) }}</div>
+                        <div><b>Quần:</b> {{ getNamesByIds(quanListRaw, result.quan) }}</div>
+                        <div><b>Giày:</b> {{ getNamesByIds(giayListRaw, result.giay) }}</div>
+                        <div><b>Phụ kiện:</b> {{ getNamesByIds(phuKienListRaw, result.phu_kien) }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                userMessage: '',
+                isSending: false,
+                messages: [],
+                countAsk: 1,
+                lastAsk: undefined,
+                history: [],
+                showPopup: false,
+                selectedHistoryItem: null,
+                aoList: [],
+                quanList: [],
+                giayList: [],
+                phuKienList: [],
+                selectedItems: {
+                    ao: [],
+                    quan: [],
+                    giay: [],
+                    phu_kien: [],
+                    style: []
+                },
+                paramHistories: {
+                    height: '',
+                    weight: '',
+                    gender: '',
+                    season: '',
+                    style: []
+                },
+                leftTab: 'info',
+            },
+            computed: {
+                allSelectedItems() {
+                    return [
+                        ...this.selectedItems.ao,
+                        ...this.selectedItems.quan,
+                        ...this.selectedItems.giay,
+                        ...this.selectedItems.phu_kien,
+                        ...this.selectedItems.style
+                    ];
+                }
+            },
+            methods: {
+                isSelected(item, type) {
+                    return this.selectedItems[type].includes(item);
+                },
+                toggleItem(item, type) {
+                    if (this.isSelected(item, type)) {
+                        this.selectedItems[type] = this.selectedItems[type].filter(i => i !== item);
+                    } else {
+                        this.selectedItems[type].push(item);
+                    }
+                },
+                removeSelectedItem(item) {
+                    for (const key of Object.keys(this.selectedItems)) {
+                        this.selectedItems[key] = this.selectedItems[key].filter(i => i !== item);
+                    }
+                },
+                resizeTextarea(event) {
+                    const textarea = event.target;
+                    textarea.style.height = 'auto';
+                    textarea.style.height = Math.min(textarea.scrollHeight, 120) + 'px';
+                },
+                async sendMessage() {
+                    const message = this.userMessage.trim();
+                    if (!message) return;
+
+                    // Disable send button during request
+                    this.isSending = true;
+
+                    // Add user message
+                    this.messages.push({
+                        type: 'user',
+                        content: message
+                    });
+
+                    // Clear input
+                    this.userMessage = '';
+
+                    try {
+                        // Prepare API request data
+                        const requestData = {
+                            message: message,
+                            paramHistories: this.paramHistories,
+                            countAsk: this.countAsk,
+                            lastAsk: this.lastAsk,
+                            selectedItems: this.selectedItems
+                        };
+
+                        // Send request to API
+                        const response = await axios.post('/ai/ask', requestData);
+
+                        this.paramHistories = response.data.paramHistories;
+                        this.countAsk++;
+                        this.lastAsk = response.data.content;
+
+                        if (response.data.isEnd) {
+                            // Lưu lịch sử đúng cấu trúc
+                            this.history.push({
+                                time: new Date().toLocaleString(),
+                                paramHistories: { ...this.paramHistories },
+                                results: Array.isArray(response.data.content) ? response.data.content : [response.data.content],
+                                star: 0
+                            });
+                        }
+
+                        // Add AI response
+                        this.messages.push({
+                            type: 'assistant',
+                            content: response.data.content || 'Xin lỗi, tôi không thể xử lý yêu cầu của bạn lúc này.'
+                        });
+
+                        // Scroll to bottom
+                        this.$nextTick(() => {
+                            const chatMessages = document.querySelector('.chat-messages');
+                            chatMessages.scrollTop = chatMessages.scrollHeight;
+                        });
+
+                    } catch (error) {
+                        console.error('Error sending message:', error);
+                        
+                        // Show error message
+                        this.messages.push({
+                            type: 'assistant',
+                            content: 'Xin lỗi, đã có lỗi xảy ra khi kết nối với server. Vui lòng thử lại sau.'
+                        });
+                    } finally {
+                        // Re-enable send button
+                        this.isSending = false;
+                    }
+                },
+                async fetchData(type) {
+                    try {
+                        const res = await axios.get(`/api/${type}`);
+                        return res.data;
+                    } catch (error) {
+                        console.error("Error fetching data:", error);
+                        return [];
+                    }
+                },
+                async loadData() {
+                    // Load thời trang data
+                    const [ao, quan, giay, phu_kien] = await Promise.all([
+                        this.fetchData('ao'),
+                        this.fetchData('quan'),
+                        this.fetchData('giay'),
+                        this.fetchData('phu_kien')
+                    ]);
+                    this.aoList = ao.map(i => i.name_b);
+                    this.quanList = quan.map(i => i.name_b);
+                    this.giayList = giay.map(i => i.name_b);
+                    this.phuKienList = phu_kien.map(i => i.name_b);
+                },
+                openHistoryPopup(item) {
+                    this.selectedHistoryItem = item;
+                    this.showPopup = true;
+                },
+                closePopup() {
+                    this.showPopup = false;
+                    this.selectedHistoryItem = null;
+                },
+                getNameById(type, id) {
+                    let list = [];
+                    if (type === 'ao') list = this.aoListRaw || [];
+                    if (type === 'quan') list = this.quanListRaw || [];
+                    if (type === 'giay') list = this.giayListRaw || [];
+                    if (type === 'phu_kien') list = this.phuKienListRaw || [];
+                    const found = list.find(i => i.id === id);
+                    return found ? found.name_b : `#${id}`;
+                },
+                getNamesByIds(list, arr) {
+                    if (!Array.isArray(arr) || !Array.isArray(list)) return '';
+                    return arr.map(obj => {
+                        // Nếu là object có id
+                        if (typeof obj === 'object' && obj.id !== undefined) {
+                            const found = list.find(i => i.id === obj.id);
+                            return found ? found.name_b : '';
+                        }
+                        // Nếu là id số
+                        if (typeof obj === 'number') {
+                            const found = list.find(i => i.id === obj);
+                            return found ? found.name_b : '';
+                        }
+                        return '';
+                    }).filter(Boolean).join(', ');
+                },
+            },
+            mounted() {
+                this.loadData();
+                
+                // Initialize chat input height
+                this.$nextTick(() => {
+                    const chatInput = document.querySelector('.chat-input');
+                    if (chatInput) {
+                        chatInput.style.height = 'auto';
+                        chatInput.style.height = chatInput.scrollHeight + 'px';
+                    }
+                });
+                // Lưu raw data để tra cứu tên theo id
+                this.fetchData('ao').then(data => this.aoListRaw = data);
+this.fetchData('quan').then(data => this.quanListRaw = data);
+this.fetchData('giay').then(data => this.giayListRaw = data);
+this.fetchData('phu_kien').then(data => this.phuKienListRaw = data);
+            }
+        });
+    </script>
+</body>
+</html>
